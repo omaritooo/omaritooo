@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">A Passionate front-end Developer from Egypt</h3>
 
-- 🌱 I’m currently learning **Next.JS**
+- 🔭 I’m currently working on **A full stack Notion Clone**
+
+- 🌱 I’m currently learning **Express**
+
+- 👨‍💻 All of my projects are available at [https://omar-ashraf.vercel.app/](https://omar-ashraf.vercel.app/)
 
 - 💬 Ask me about **Vue, Tailwind and React**
 
 - 📫 How to reach me **omarash227@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Ll6ykVhDFShPruP5fppcUNy7U0me_RQS/view](https://drive.google.com/file/d/1Ll6ykVhDFShPruP5fppcUNy7U0me_RQS/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
